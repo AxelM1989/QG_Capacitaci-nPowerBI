@@ -11,4 +11,4 @@ Dejaré en el repositorio un PDF con las consignas, los csvs entregados para la 
 En mi caso entre los dos temas, elegí el de incendios forestales, ya que me pareció mas desafiante el modelo de datos (en el otro era un solo csv, que se podían identificar claramente los datos acordes para las dimensiones y la tabla fact).
 
 
-Este tablero tiene tooltips en los kpis más importantes y se puede filtrar para verlo en modo claro o modo oscuro, de acuerdo a la preferencia de cada uno.
+Este tablero tiene tooltips en los kpis más importantes y se puede filtrar para verlo en modo claro o modo oscuro, de acuerdo a la preferencia de cada uno. También se puede obtener información acerca de la prevención de incendios que es muy importante y por último contacto a mi Linkedin.
